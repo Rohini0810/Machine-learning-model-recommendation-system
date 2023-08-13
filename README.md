@@ -1,1 +1,2 @@
 # Machine-learning-model-recommendation-system
+This project proposes an AutoML web application utilizing Python and integrating Pandas Profiling, PyCaret, and Streamlit to automate complex machine learning processes. The application offers an intuitive platform for end-to-end pipeline automation, leveraging Pandas Profiling for dataset insights and PyCaret for tasks like preprocessing, training, and evaluation. Streamlit enhances user interaction, simplifying data-driven decision-making and democratizing machine learning for various users, regardless of their expertise.
